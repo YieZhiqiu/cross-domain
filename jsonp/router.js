@@ -22,4 +22,4 @@ app.get('/getNews', function(req, res){
         res.send(data);
     }
 });
-© 2017 GitHub, Inc.
+
